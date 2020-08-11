@@ -7,5 +7,9 @@ $("document").ready(function(){
     $("body").removeClass();
     $("body").addClass("dark-background");
   });
+  $("button#original").click(function () {
+    $("body").removeClass();
+    $("body").addClass("original-background");
+  });
 
 });

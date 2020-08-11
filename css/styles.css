@@ -1,0 +1,14 @@
+img {
+  width: 300px;
+  height: auto;
+}
+
+.light-background {
+  background-color: lightcyan;
+  color: black; 
+}
+
+.dark-background {
+  background-color: black;
+  color: lightcyan; 
+}
